@@ -1,3 +1,5 @@
+use "src/utils.obs";
+
 fn main {
     $$"Hello, world!";
 };
